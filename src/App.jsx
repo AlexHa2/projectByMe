@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        tao kh thich an thi sao
+        tao kh thich an thi sao t hì kẹ mẹ may
       </p>
     </>
   )
